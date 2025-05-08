@@ -1,3 +1,12 @@
+# Video BT buổi 5 trên lớp Lý Thuyết
+
+
+
+https://github.com/user-attachments/assets/ae1a239a-1bb8-4949-902a-2252c449fb63
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
